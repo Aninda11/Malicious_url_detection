@@ -1,7 +1,7 @@
 # malicious_url_detection
 My malicious url detector project for Data Scientist Internship at iNeuron.ai.
 
-Here's a README file for your project:
+Here's a README file for this project:
 
 ---
 
@@ -13,6 +13,8 @@ This project aims to develop a predictive model for detecting malicious URLs usi
 
 - `malicious_url_detector.ipynb`: Jupyter notebook for training the model and generating the `distilbert_model.pth` file.
 - `main.py`: Main script to run the Flask application.
+- `app_vars.py`: variables connecting to app.
+- 'env': variables setting env file.
 - `database.py`: Script to manage database operations using Cassandra.
 - `models.py`: Script defining the model architecture.
 - `predictor.py`: Script for making predictions using the trained model.
@@ -32,8 +34,8 @@ This project aims to develop a predictive model for detecting malicious URLs usi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/malicious-url-detector.git
-   cd malicious-url-detector
+   git clone https://github.com/Aninda11/Malicious_url_detection.git
+   cd ml
    ```
 
 2. **Install the required packages:**
@@ -91,10 +93,7 @@ This project aims to develop a predictive model for detecting malicious URLs usi
 
 Contributions are welcome. Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
-Replace `https://github.com/yourusername/malicious-url-detector.git` with the actual URL of your GitHub repository.
+Replace `https://github.com/Aninda11/Malicious_url_detection.git` with the actual URL of your GitHub repository.
