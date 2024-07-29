@@ -89,11 +89,5 @@ This project aims to develop a predictive model for detecting malicious URLs usi
 2. **Notifications:**
    The application sends email notifications if a malicious URL is detected.
 
-## Contributing
-
-Contributions are welcome. Please fork the repository and create a pull request with your changes.
-
 
 ---
-
-Replace `https://github.com/Aninda11/Malicious_url_detection.git` with the actual URL of your GitHub repository.
